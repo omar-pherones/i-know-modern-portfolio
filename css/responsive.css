@@ -1,0 +1,739 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+    .container {
+        padding: 0px 20px;
+    }
+
+    nav#nav_bar a img {
+        width: 90px;
+    }
+    .custome_link {
+        font-size: 12px;
+        padding: 8px 20px !important;
+    }
+    #hero {
+        padding-top: 150px;
+        padding-bottom: 95px;
+    }
+    #hero .animate {
+        display: none;
+    }
+
+    #hero .left {
+        order: 2;
+    }
+    #hero .right {
+        order: 1;
+    }
+    #hero .hero-right .hero-image .anime {
+        display: none;
+    }
+    #hero .hero-right .hero-image {
+        width: 100%;
+    }
+    #hero .hero-right .hero-image img {
+        border-radius: 15px;
+    }
+    #hero .hero-right {
+        margin-bottom: 50px;
+    }
+    #hero .hero-left h1 {
+        font-family: inherit;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 25px;
+        color: rgb(34, 34, 34);
+        margin: 0px;
+        padding: 0px;
+    }
+    #hero .hero-left .hero-left-content h1 span {
+        display: inline;
+    }
+    .hero-left-content h6 {
+        font-size: 25px;
+        font-weight: 700;
+        margin-bottom: 15px;
+    }
+    .hero-left-content p {
+        width: auto;
+        font-size: 21px;
+    }
+    #hero .hero-left .hero-left-content .social-link a {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        margin-right: 5px;
+        font-size: 16px;
+    }
+    #accordion_menu .accordion-item .accordion-button .arrow i {
+        display: none;
+    }
+    #accordion_menu .accordion-item .accordion-button h4 {
+        margin: 0;
+        box-shadow: 18px 18px 48px rgba(108, 99, 255, 0.1);
+        width: 95%;
+        height: 70px;
+        border-radius: 15px;
+        line-height: 70px;
+        transition: all 0.5s linear;
+        font-size: 18px;
+        color: #222;
+    }
+    #accordion_menu .accordion-item .accordion-button .icon {
+        height: 70px;
+        background-color: rgb(255, 69, 27);
+        color: rgb(255, 255, 255);
+        border-radius: 15px;
+        line-height: 70px;
+        text-align: center;
+        box-shadow: rgba(108, 99, 255, 0.1) 18px 18px 48px;
+        transition: all 0.5s linear;
+        width: 70px;
+    }
+    #accordion_menu .accordion-item .accordion-button {
+        background-color: transparent;
+        cursor: pointer;
+        height: 70px;
+        position: relative;
+        margin-bottom: 20px !important;
+    }
+    #accordion_menu .accordion-item .accordion-button .icon {
+        line-height: 70px;
+        position: absolute;
+        width: 70px !important;
+        height: 70px;
+    }
+    #accordion_menu .accordion-item .accordion-button h4 {
+        margin: 0;
+        box-shadow: 18px 18px 48px rgba(108, 99, 255, 0.1);
+        width: 95%;
+        height: 70px;
+        border-radius: 15px;
+        line-height: 70px;
+        transition: all 0.5s linear;
+        font-size: 18px;
+        color: #222;
+        padding-left: 83px;
+    }
+    #accordion_menu .accordion-item .accordion-button .icon img {
+        width: 25px;
+    }
+
+    .aboutLeftslide {
+        order: 2;
+    }
+    .aboutRightslid {
+        order: 1;
+    }
+    .about-right {
+        padding-left: 0px;
+    }
+    .section-title h3 {
+        font-size: 25px;
+    }
+    .about-text h5 {
+        margin: 20px 0px;
+        font-weight: 600;
+    }
+    .about-text p {
+        font-size: 18px;
+        line-height: 28px;
+        font-weight: 400;
+        width: auto;
+        margin-bottom: 40px;
+    }
+    .aboutWraper .custome_link {
+        padding: 10px 30px !important;
+    }
+    .section-title h3 {
+        font-size: 25px;
+        font-weight: 700;
+        color: #222;
+        line-height: 1.2;
+    }
+    .about-text h5 {
+        margin: 20px 0px;
+        font-size: 18px;
+        font-weight: 600;
+        color: #222;
+        line-height: 1.7;
+    }
+    .about-text p {
+        font-size: 18px;
+        line-height: 28px;
+        font-weight: 400;
+        width: auto;
+        margin-bottom: 40px;
+    }
+    .aboutWraper .custome_link {
+        padding: 10px 30px !important;
+    }
+    #accordion_menu .accordion-item .accordion-body {
+        padding: 50px 30px;
+        margin-top: 0px;
+        padding-bottom: 160px;
+    }
+    .about-image img {
+        display: none;
+    }
+    .details {
+        top: 35px;
+        width: 100%;
+        padding: 30px 34px 29px;
+        right: 0px;
+    }
+    .details li h6 {
+        font-size: 14px;
+        margin-bottom: 2px;
+    }
+    .details li span {
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .resumeWrapper .accordion-body {
+        padding-bottom: 50px !important;
+    }
+    .resumeWrapper .section-title {
+        margin-bottom: 40px;
+    }
+    .resume-shap {
+        width: 16px;
+        height: 16px;
+        border: 2px solid #ff451b;
+    }
+    .resume-shap::after {
+        width: 5px;
+        height: 5px;
+        text-align: center;
+    }
+    .resume-title h2 {
+        font-size: 25px;
+        font-weight: 700;
+        margin-left: 30px;
+    }
+    .resume_info {
+        margin-bottom: 30px;
+        flex-direction: column;
+    }
+    .resumeleftitem .resume_info .job h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .year {
+        margin-top: 15px;
+    }
+    .resumeWrapper .resume_left .text p {
+        width: auto;
+        font-size: 18px;
+    }
+    .resumeleftitem {
+        margin-bottom: 30px !important;
+    }
+    .resume_right {
+        margin-left: 0px;
+    }
+    .skill-title h5 {
+        font-size: 16px;
+    }
+    .barfiller .tip {
+        font-size: 0px;
+    }
+    .skill-title {
+        margin-bottom: 10px;
+    }
+    .circle-chart {
+        width: auto;
+        height: auto;
+    }
+    .circule-item h6 {
+        font-size: 16px;
+    }
+    .circule-item {
+        margin-bottom: 30px;
+    }
+    .protofolio_link {
+        text-align: left;
+        margin-bottom: 50px;
+    }
+    .protofolio_link button {
+        font-size: 18px;
+        font-weight: 600;
+        padding: 0px 16px 8px 0;
+        margin-bottom: 7px;
+    }
+    .services-icon img {
+        height: 30px;
+    }
+    .services-item .services-text h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .accordion-item.servicesWrapper .accordion-body {
+        padding-bottom: 50px !important;
+    }
+    .testimonial-item {
+        padding: 27px 35px 35px;
+    }
+    .testimonial-text p {
+        font-size: 14px;
+        font-style: italic;
+        margin-bottom: 30px;
+    }
+    .testimonial-info .testimonial-image img {
+        height: 60px;
+        border-radius: 50%;
+        width: 70px;
+    }
+    .testimonial-details h4 {
+        font-size: 16px;
+    }
+    .testimonial-details h6 {
+        font-size: 14px;
+    }
+    .testimonial-details {
+        margin-left: 18px;
+    }
+
+    .testimonial-icon {
+        display: none;
+    }
+    .testimonnial .accordion-body {
+        padding-bottom: 50px !important;
+    }
+    .Testimonials-sliders {
+        padding: 5px;
+    }
+    .blog-item .blog-image img {
+        height: 220px;
+    }
+    .blog-text {
+        padding: 18px 10px 8px;
+    }
+    .accordion-item.blogs .accordion-body {
+        padding-bottom: 50px !important;
+    }
+    ul.contactInfo {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .contactInfo li .icon {
+        width: 55px;
+        height: 55px;
+        text-align: center;
+        line-height: 55px;
+        background: #ffb324;
+        border-radius: 50%;
+    }
+    .contactInfo li .icon img {
+        height: 30px;
+    }
+    .contactInfo li h4 {
+        font-size: 16px;
+    }
+    form button.contact {
+        padding: 10px 25px !important;
+
+        font-size: 14px;
+    }
+}
+@media (min-width: 576px) and (max-width: 768.98px) {
+    .container {
+        padding: 0px 20px;
+    }
+
+    nav#nav_bar a img {
+        width: 90px;
+    }
+    .custome_link {
+        font-size: 14px;
+        padding: 10px 24px !important;
+    }
+
+    #hero .animate {
+        display: none;
+    }
+    #hero .hero-right .hero-image {
+        width: 100%;
+        height: 328px;
+    }
+    #hero .hero-right .hero-image img {
+        border-radius: 15px;
+    }
+    #hero .left {
+        margin-top: 40px;
+        width: 100%;
+    }
+    #hero {
+        padding-top: 150px;
+        padding-bottom: 95px;
+    }
+    #hero .hero-left h1 {
+        font-family: inherit;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 25px;
+        color: rgb(34, 34, 34);
+        margin: 0px;
+        padding: 0px;
+    }
+    #hero .left {
+        order: 2;
+    }
+    #hero .right {
+        order: 1;
+    }
+    #hero .hero-left .hero-left-content h1 span {
+        display: inline;
+    }
+    .hero-left-content h6 {
+        font-size: 25px;
+        font-weight: 700;
+        margin-bottom: 15px;
+    }
+    .hero-left-content p {
+        width: auto;
+        font-size: 21px;
+    }
+    #accordion_menu .accordion-item .accordion-button .arrow i {
+        display: none;
+    }
+    #accordion_menu .accordion-item .accordion-button h4 {
+        margin: 0;
+        box-shadow: 18px 18px 48px rgba(108, 99, 255, 0.1);
+        width: 100%;
+        height: 70px;
+        border-radius: 15px;
+        line-height: 70px;
+        transition: all 0.5s linear;
+        font-size: 18px;
+        color: #222;
+    }
+    #accordion_menu .accordion-item .accordion-button .icon {
+        height: 70px;
+        background-color: rgb(255, 69, 27);
+        color: rgb(255, 255, 255);
+        border-radius: 15px;
+        line-height: 70px;
+        text-align: center;
+        box-shadow: rgba(108, 99, 255, 0.1) 18px 18px 48px;
+        transition: all 0.5s linear;
+        width: 70px;
+    }
+    #accordion_menu .accordion-item .accordion-button {
+        background-color: transparent;
+        cursor: pointer;
+        height: 70px;
+        position: relative;
+        margin-bottom: 20px !important;
+        transition: all 0.3s ease-in;
+    }
+    #accordion_menu .accordion-item .accordion-button .icon {
+        line-height: 70px;
+        position: absolute;
+        width: 70px !important;
+        height: 70px;
+    }
+    #accordion_menu .accordion-item .accordion-button h4 {
+        margin: 0;
+        box-shadow: 18px 18px 48px rgba(108, 99, 255, 0.1);
+        width: 95%;
+        height: 70px;
+        border-radius: 15px;
+        line-height: 70px;
+        transition: all 0.5s linear;
+        font-size: 18px;
+        color: #222;
+        padding-left: 83px;
+    }
+    #accordion_menu .accordion-item .accordion-button .icon img {
+        width: 25px;
+    }
+    #accordion_menu .accordion-item .accordion-body {
+        padding: 70px 30px;
+    }
+    .section-title h3 {
+        font-size: 30px;
+        font-weight: 700;
+        color: #222;
+        line-height: 1.2;
+        margin-bottom: 0px;
+    }
+    .about-text p {
+        font-size: 18px;
+        width: auto;
+    }
+    .about-right {
+        padding-left: 0px;
+    }
+    .about-left-Wrapper {
+        margin-top: 50px;
+        padding-bottom: 120px;
+    }
+    .about-image img {
+        display: none;
+    }
+    .details {
+        top: 0;
+        width: 100%;
+        right: 0;
+    }
+    .resume-title h2 {
+        font-size: 30px;
+        margin-left: 30px;
+    }
+    .resume-shap {
+        width: 16px;
+        height: 16px;
+        border: 2px solid #ff451b;
+    }
+    .resume-shap::after {
+        width: 6px;
+        height: 6px;
+    }
+    .resume_right {
+        margin-left: 0px;
+    }
+    .circle-chart {
+        width: 150px;
+        height: 150px;
+    }
+    .circule-item {
+        margin-bottom: 30px;
+    }
+    .circlechart {
+        width: 130px;
+        height: auto;
+    }
+    .circle-chart {
+        width: 130px;
+        height: auto;
+    }
+    .circule-item h6 {
+        margin-left: 20px;
+        text-align: left;
+    }
+    .protofolio_link button {
+        font-size: 16px;
+        padding: 0 23px 8px 0;
+    }
+    .testimonial-info .testimonial-image img {
+        height: 75px;
+    }
+    .testimonial-icon img {
+        height: 25px;
+    }
+    form button.contact {
+        padding: 10px 25px !important;
+        font-size: 14px;
+    }
+}
+@media (min-width: 769px) and (max-width: 991.987px) {
+    .container {
+        padding: 0px 20px;
+    }
+
+    nav#nav_bar a img {
+        width: 90px;
+    }
+    .custome_link {
+        font-size: 14px;
+        padding: 10px 24px !important;
+    }
+
+    #hero .animate {
+        display: none;
+    }
+    #hero .hero-right .hero-image {
+        width: 100%;
+        height: 350px;
+    }
+    #hero .hero-right .hero-image img {
+        border-radius: 15px;
+        height: 350px;
+    }
+    #hero .left {
+        margin-top: 40px;
+        width: 100%;
+    }
+    #hero {
+        padding-top: 150px;
+        padding-bottom: 95px;
+    }
+    #hero .hero-left h1 {
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 25px;
+    }
+    #hero .hero-left .hero-left-content h1 span {
+        display: inline;
+    }
+    .hero-left-content h6 {
+        font-size: 25px;
+        font-weight: 700;
+        margin-bottom: 15px;
+    }
+    .hero-left-content p {
+        width: auto;
+        font-size: 18px;
+    }
+    #accordion_menu .accordion-item .accordion-button .arrow i {
+        display: none;
+    }
+    #accordion_menu .accordion-item .accordion-button h4 {
+        margin: 0;
+        box-shadow: 18px 18px 48px rgba(108, 99, 255, 0.1);
+        width: 100%;
+        height: 70px;
+        border-radius: 15px;
+        line-height: 70px;
+        transition: all 0.5s linear;
+        font-size: 18px;
+        color: #222;
+    }
+    #accordion_menu .accordion-item .accordion-button .icon {
+        height: 70px;
+        background-color: rgb(255, 69, 27);
+        color: rgb(255, 255, 255);
+        border-radius: 15px;
+        line-height: 70px;
+        text-align: center;
+        box-shadow: rgba(108, 99, 255, 0.1) 18px 18px 48px;
+        transition: all 0.5s linear;
+        width: 70px;
+    }
+    #accordion_menu .accordion-item .accordion-button {
+        background-color: transparent;
+        cursor: pointer;
+        height: 70px;
+        position: relative;
+        margin-bottom: 20px !important;
+        transition: all 0.3s ease-in;
+    }
+    #accordion_menu .accordion-item .accordion-button .icon {
+        line-height: 70px;
+        position: absolute;
+        width: 70px !important;
+        height: 70px;
+    }
+    #accordion_menu .accordion-item .accordion-button h4 {
+        margin: 0;
+        box-shadow: 18px 18px 48px rgba(108, 99, 255, 0.1);
+        width: 95%;
+        height: 70px;
+        border-radius: 15px;
+        line-height: 70px;
+        transition: all 0.5s linear;
+        font-size: 18px;
+        color: #222;
+        padding-left: 83px;
+    }
+    #accordion_menu .accordion-item .accordion-button .icon img {
+        width: 25px;
+    }
+    #accordion_menu .accordion-item .accordion-body {
+        padding: 70px 30px;
+    }
+
+    .about-right {
+        padding-left: 0px;
+        margin-bottom: 50px;
+    }
+    .about-text p {
+        font-size: 18px;
+        width: auto;
+    }
+    .about-left-Wrapper {
+        padding-bottom: 120px;
+    }
+    .about-image img {
+        display: none;
+    }
+    .details {
+        top: 0;
+        width: 100%;
+        right: 0;
+    }
+    .resume-title h2 {
+        font-size: 30px;
+        font-weight: 700;
+        margin-left: 40px;
+    }
+    .resume-shap {
+        width: 20px;
+        height: 20px;
+        border: 2px solid #ff451b;
+    }
+    .resume-shap::after {
+        width: 6px;
+        height: 6px;
+    }
+    .resumeWrapper .section-title {
+        margin-bottom: 50px;
+    }
+    .resume_right {
+        margin-left: 0px;
+    }
+    .circle-chart {
+        width: 150px;
+        height: 150px;
+    }
+    .circule-item {
+        margin-bottom: 30px;
+    }
+    .circlechart {
+        width: auto;
+        height: auto;
+    }
+    .circle-chart {
+        width: auto;
+        height: auto;
+    }
+    .circule-item h6 {
+        margin-left: 0px;
+        text-align: center;
+    }
+    .circle-chart {
+        width: 200px;
+        height: auto;
+    }
+    .circle-chart__background {
+        stroke-width: 0.9;
+    }
+    .circle-chart__circle {
+        stroke-width: 1;
+    }
+    .protofolio_link {
+        text-align: left;
+        margin-bottom: 50px;
+    }
+    .vbox-close {
+        top: 14%;
+        right: 13px;
+        font-size: 16px;
+        border: 2px solid #fff;
+    }
+    .testimonial-info .testimonial-image img {
+        height: 70px;
+        border-radius: 50%;
+    }
+    .testimonial-details {
+        margin-left: 13px;
+    }
+    .testimonial-details h4 {
+        font-size: 16px;
+    }
+    .testimonial-details h6 {
+        font-size: 13px;
+    }
+    .testimonial-icon img {
+        height: 25px;
+    }
+    form button.contact {
+        padding: 12px 30px !important;
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+@media (min-width: 1200px) and (max-width: 1400.98px) {
+}
